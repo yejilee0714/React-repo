@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/yejilee0714/React-repo.git/static/css/main.073c9b0a.css",
+    "main.js": "/yejilee0714/React-repo.git/static/js/main.1106e423.js",
+    "index.html": "/yejilee0714/React-repo.git/index.html",
+    "main.073c9b0a.css.map": "/yejilee0714/React-repo.git/static/css/main.073c9b0a.css.map",
+    "main.1106e423.js.map": "/yejilee0714/React-repo.git/static/js/main.1106e423.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.1106e423.js"
+  ]
+}
